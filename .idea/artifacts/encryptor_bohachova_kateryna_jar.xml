@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="encryptor.bohachova.kateryna:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/encryptor_bohachova_kateryna_jar</output-path>
+    <root id="archive" name="encryptor.bohachova.kateryna.jar">
+      <element id="module-output" name="encryptor.bohachova.kateryna" />
+    </root>
+  </artifact>
+</component>
